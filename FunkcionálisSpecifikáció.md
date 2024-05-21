@@ -1,21 +1,23 @@
 ﻿# Funkcionális specifikáció
 
-## 1. Jelenlegi helyzet leírása
 
 
 
-## 2. Vágyállomrendszer leírása
 
- 
+## 1. Vágyállomrendszer leírása
 
-## 3. Jelenlegi üzleti folyamatok modellje
-
-
-## 4. Igényelt üzleti folyamatok modellje
+## 2. Alkatrész lista:
+Minden alkatrész be let tszerezve
 
 
+## 3. Használati esetek (működés)
 
-## 6. Használati esetek
+
+## 4. Képernyőtervek 
+
+
+
+## 6. Forgató könyvek
 
 
 
