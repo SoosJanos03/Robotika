@@ -27,6 +27,8 @@ A projekt egy 2 személyes pong játék, amit egy arduino uno-val és egy 16x2-e
 • 3es gomb: player2 ütője mozgatása felfelé
 
 • 4es gomb: player2 ütője mozgatása lefelé
+ 
+• potméter: Lcd kijelző kontrasztjának állítása
 
 ## 4. Képernyőtervek / CAD tervrajz
 
